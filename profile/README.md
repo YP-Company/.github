@@ -9,7 +9,7 @@ const memberInfo = {
     email: 'woojin97318@gmail.com'
   },
   최현호: {
-    email: 'chlgusgh0815@icloud.com'
+    email: 'hyunhoc815@gmail.com'
   }
 };
 ```
